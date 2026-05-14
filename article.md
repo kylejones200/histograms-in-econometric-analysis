@@ -11,9 +11,9 @@ visual representation of the frequency distribution of a dataset...
 ### Histograms in Econometric Analysis
 Histograms are fundamental tools in econometric analysis, providing a visual representation of the frequency distribution of a dataset. They serve as a critical mechanism for exploring the underlying structure of numerical data, offering insights into three essential aspects:
 
-1.  [**Central Tendency**: Identifying the central value around which the data clusters.]
-2.  [**Dispersion**: Examining the variability or spread of data points.]
-3.  [**Distribution Shape**: Observing the pattern in which the data points are distributed, including skewness and kurtosis.]
+1.  [Central Tendency: Identifying the central value around which the data clusters.]
+2.  [Dispersion: Examining the variability or spread of data points.]
+3.  [Distribution Shape: Observing the pattern in which the data points are distributed, including skewness and kurtosis.]
 
 ### Role of Histograms in Public Policy Analysis
 In the context of public policy, histograms play a pivotal role in visualizing data distributions to inform decision-making. For instance, they can reveal income distribution across different demographic groups, highlight regional disparities in unemployment rates, or show the frequency of healthcare access across income levels. These visualizations help policymakers understand social equity implications and guide resource allocation effectively.
@@ -23,10 +23,10 @@ A histogram is constructed by grouping continuous data into intervals, known as 
 
 A sophisticated interpretation of histograms involves understanding the following properties:
 
-- **Bin Width and Frequency**: The choice of bin width significantly affects the interpretation of the histogram. Narrow bins may capture noise, while wider bins may obscure important details. Optimal bin width can be determined using rules such as Sturges' formula or the Freedman-Diaconis rule.
-- **Shape of Distribution**: The shape provides crucial information about the distribution's properties, including:
-- **Symmetry and Skewness**: A symmetric histogram suggests a normal distribution, whereas skewness indicates potential outliers or biases in the data.
-- **Kurtosis**: Indicates the presence of heavy tails or outliers, relevant for risk assessment in policy analysis.
+- Bin Width and Frequency: The choice of bin width significantly affects the interpretation of the histogram. Narrow bins may capture noise, while wider bins may obscure important details. Optimal bin width can be determined using rules such as Sturges' formula or the Freedman-Diaconis rule.
+- Shape of Distribution: The shape provides crucial information about the distribution's properties, including:
+- Symmetry and Skewness: A symmetric histogram suggests a normal distribution, whereas skewness indicates potential outliers or biases in the data.
+- Kurtosis: Indicates the presence of heavy tails or outliers, relevant for risk assessment in policy analysis.
 
 
 <figcaption>Repeated oservations approximate the normal distribution</figcaption>
