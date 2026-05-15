@@ -60,16 +60,12 @@ In econometric analysis, Python provides a powerful platform for creating detail
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
-```
 
-``` 
 # Simulated data for income before and after tax reform
 np.random.seed(42)
 income_before = np.random.normal(50000, 15000, 1000)
 income_after = np.random.normal(47000, 13000, 1000)
-```
 
-``` 
 # Plot histograms for before and after tax reform
 plt.hist(income_before, bins=30, alpha=0.5, label='Before Reform', color='blue')
 plt.hist(income_after, bins=30, alpha=0.5, label='After Reform', color='green')
